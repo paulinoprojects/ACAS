@@ -2,7 +2,7 @@
 
 ## **1. Purpose**
 Here is an example that outlines the procedures for handling the results of vulnerability scans and compliance checks conducted using ACAS tools (Nessus, SecurityCenter, PVS, LCE). 
-The purpose is to ensure that vulnerabilities and non-compliance issues are addressed in accordance with DoD policies, thereby securing the organization’s network and systems.
+The purpose is to ensure that vulnerabilities and non-compliance issues are addressed in accordance with organizational policies, thereby securing the organization’s network and systems.
 
 ---
 
